@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Aug 2020 08:37:26 at https://fxquicktrade.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fxquicktrade.com/ -O1 "C:\My Web Sites\mypfx" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:40:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://fxquicktrade.com/fonts/glyphicons-halflings-regular.html
+08:42:20	Error: 	"Not Found" (404) at link https://fxquicktrade.com/index-2.html (from https://fxquicktrade.com/)
+08:42:20	Warning: 	File not parsed, looks like binary: https://fxquicktrade.com/fonts/fontawesome-webfont3e6e.html?v=4.7.0
+08:42:20	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/mypfx/fxquicktrade.com/fonts/fontawesome-webfont3e6e3e6e.html
+08:43:04	Error: 	"Not Found" (404) at link https://fxquicktrade.com/blog-post.html (from https://fxquicktrade.com/faq.php)
+08:43:04	Error: 	"Not Found" (404) at link https://fxquicktrade.com/blog-post-light.html (from https://fxquicktrade.com/faq.php)
+08:43:04	Error: 	"Not Found" (404) at link https://fxquicktrade.com/templateshub.net (from https://fxquicktrade.com/terms-of-services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 38 seconds : 94 links scanned, 89 files written (6112787 bytes overall) [6138897 bytes received at 18162 bytes/sec], 1.7 requests per connection
+(4 errors, 3 warnings, 0 messages)
